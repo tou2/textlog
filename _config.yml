@@ -12,3 +12,5 @@ permalink: pretty
 # just leave empty to disable it
 google_analytics:
 disqus_shortname:
+
+theme: jekyll-theme-minimal
